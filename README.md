@@ -39,11 +39,7 @@ SMART PHARMA tackles these issues by leveraging the following technologies:
 (Outline potential areas for future development and improvements)
 
 **Team:**
-
-* Mallikarjun Yeshlur
-
-  [Mallikarjun Yeshlur](https://github.com/Mallikyesh)
-  
+* [Mallikarjun Yeshlur](https://github.com/Mallikyesh)
 * [Madhusudana A V](https://github.com/Madhusudan2979)
 * [Kiran Eshwar](https://github.com/KiranEaswar)
 * [Mahanta Talakal](https://github.com/MahantaTalakal)
